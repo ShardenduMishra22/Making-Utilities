@@ -7,4 +7,4 @@ Questions Done (Leetcode) :
 1074 - https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/
 
 
-Concepts - Prefix sum for 1d and 2d, Non-negative.
+Concepts - Prefix sum for 1d and 2d, Non-negative. 
