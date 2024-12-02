@@ -1,0 +1,10 @@
+Questions Done (Leetcode) :
+
+1590 - https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2024-10-01
+2575 - https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
+974 - https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
+560 - https://leetcode.com/problems/subarray-sum-equals-k/
+1074 - https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/
+
+
+Concepts - Prefix sum for 1d and 2d, Non-negative.
