@@ -1,0 +1,11 @@
+Questions Done (Leetcode) :
+
+2825 - https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/?envType=daily-question&envId=2024-12-04
+567 - https://leetcode.com/problems/permutation-in-string/description/?envType=daily-question&envId=2024-12-04
+1813 - https://leetcode.com/problems/sentence-similarity-iii/description/?envType=daily-question&envId=2024-12-04
+2696 - https://leetcode.com/problems/minimum-string-length-after-removing-substrings/submissions/1470230802/?envType=daily-question&envId=2024-12-04
+
+Concepts - Make a cycle using mod with the original value (Eg. a to z then mod 26 to cycle around)
+Sliding window and making permuatation,
+Sentence and StringStream (good uqestion check it out),
+Removing charecters using built-in fucntions and stack methods.
